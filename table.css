@@ -67,7 +67,7 @@ h2 a {
 	  font-weight: bold;
 	  font-size: 1em;
 	  text-align: left;
-      color: #F8F8FF;
+     	  color: #F8F8FF;
 	  text-align:center;
 	  
 }
@@ -152,7 +152,7 @@ legend {
 }
 
 input[type="text"] {
-    width: 170px;
+    width: 175px;
     border: 1px solid #d6d6d6;
     padding: 2px;
     outline: none;
