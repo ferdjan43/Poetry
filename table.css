@@ -30,6 +30,16 @@ ul{
 	margin-top: 5px;
 	letter-spacing: 2px;
 }
+.checklist {
+  text-align: center;
+  list-style-position: inside;
+  font-family: roboto;
+  font-size: 120%;
+  color: white;
+  margin-top: 5px;
+  letter-spacing: 2px;
+  list-style-image: url('image/pen-tool.svg'); /* Path to your image */
+}
 
 
 h1 {
